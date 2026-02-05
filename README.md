@@ -5,8 +5,7 @@
 I'm a Junior Developer with a strong technical background in Energy Engineering,
 focused on Python and Web Development.
 
-I enjoy learning by building real projects, improving my code step by step,  
-and trying to understand how things work under the hood.
+I enjoy learning by building real projects, improving my code step by step, and trying to understand how things work under the hood.
 
 Currently open to **entry-level / junior roles** in Python or Web Development.
 
@@ -52,8 +51,8 @@ Currently open to **entry-level / junior roles** in Python or Web Development.
 - 🟨 **Random Game App**  
  Node.js/Express app that uses the RAWG API to fetch and filter games by genre and year.
 
-- 🟩 **Flask Form Submission App**  
- Dynamic web application that allows users to submit data stored in a local database
+- 🟩 **Form Submission App**  
+ Flask dynamic web application that allows users to submit data stored in a local database
 and confirmed via automated email.
 
 ---
