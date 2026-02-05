@@ -56,8 +56,6 @@ Currently open to **entry-level / junior roles** in Python or Web Development.
  Dynamic web application that allows users to submit data stored in a local database
 and confirmed via automated email.
 
-> Check my pinned repositories below for concrete examples.
-
 ---
 
 ## 🎓 Background
