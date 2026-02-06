@@ -29,8 +29,6 @@ Currently open to **entry-level / junior roles** in Web Development.
 **Backend**
 - Node.js
 - Express.js
-- Django
-- Flask
 
 **Databases**
 - PostgreSQL
