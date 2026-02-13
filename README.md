@@ -3,11 +3,11 @@
 ## 👨‍💻 About Me
 
 I'm a Junior Developer with a strong technical background in Energy Engineering,
-focused on Web Development.
+focused on Web / Software Development.
 
 I enjoy learning by building real projects, improving my code step by step, and trying to understand how things work under the hood.
 
-Currently open to **entry-level / junior roles** in Web Development.
+Currently open to **entry-level / junior roles** in Web / Software Development.
 
 ---
 
